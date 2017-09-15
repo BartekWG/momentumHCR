@@ -299,7 +299,7 @@ nav {
 
 
 .momentumBack {
-    background-image: url("file:///home/wolf/Pulpit/momentum/foto/bg-1.jpg");
+    background-image: url("../../foto/bg-1.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
@@ -566,7 +566,7 @@ nav {
     line-height: 20px;
 }
 .back2 {
-    background-image: url("file:///home/wolf/Pulpit/momentum/foto/bg-4.jpg");
+    background-image: url("../../foto/bg-4.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
