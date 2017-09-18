@@ -499,6 +499,12 @@ nav {
     width: 33%;
     height: auto;
 }
+@media (max-width: 799px) {
+    .workRow2Element {
+        width: 100%;
+        height: auto;
+    }
+}
 .workRow2ImgLink {
     position: relative;
     line-height: 0;
@@ -937,6 +943,12 @@ a.arrow-link:hover {
     width: 33%;
     margin-top: 30px;
     display: block;
+}
+@media (max-width: 799px) {
+    .aboutEmployeeCol {
+        width: 100%;
+        height: auto;
+    }
 }
 .aboutEmployeeImg {
     position: relative;
